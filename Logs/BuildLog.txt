@@ -1,0 +1,38 @@
+[ 594/1047  0s] CopyTool ../../Builds/tiny3d-asmjs-tiny3d/Data/46b433b264c69cbd39f04ad2e5d12be8
+[ 595/1047  0s] CopyTool ../../Builds/tiny3d-asmjs-tiny3d/Data/34c1c1232ad50de47bde0e4799ae6610
+[ 808/1047  1s] C_WebGL_asmjs artifacts/libil2cpptiny/tiny3d-asmjs-tiny3d/v2jj/EventImpl.o
+[ 808/1047  1s] C_WebGL_asmjs artifacts/libil2cpptiny/tiny3d-asmjs-tiny3d/v2jj/Path.o
+[ 810/1047  1s] C_WebGL_asmjs artifacts/libil2cpptiny/tiny3d-asmjs-tiny3d/v2jj/ThreadImpl.o
+[ 814/1047  1s] C_WebGL_asmjs artifacts/libil2cpptiny/tiny3d-asmjs-tiny3d/v2jj/Handle.o
+[ 815/1047  1s] C_WebGL_asmjs artifacts/libil2cpptiny/tiny3d-asmjs-tiny3d/v2jj/SemaphoreImpl.o
+[ 816/1047  1s] C_WebGL_asmjs artifacts/libil2cpptiny/tiny3d-asmjs-tiny3d/v2jj/SocketImpl.o
+[ 817/1047  1s] C_WebGL_asmjs artifacts/libil2cpptiny/tiny3d-asmjs-tiny3d/v2jj/NativeMethods.o
+[ 817/1047  1s] C_WebGL_asmjs artifacts/libil2cpptiny/tiny3d-asmjs-tiny3d/v2jj/ConditionVariableImpl.o
+[ 818/1047  1s] C_WebGL_asmjs artifacts/libil2cpptiny/tiny3d-asmjs-tiny3d/v2jj/LibraryLoader.o
+[ 820/1047  1s] C_WebGL_asmjs artifacts/libil2cpptiny/tiny3d-asmjs-tiny3d/v2jj/Environment.o
+[1028/1047  0s] C_WebGL_asmjs artifacts/libil2cpptiny/tiny3d-asmjs-tiny3d/e3hf/Environment.o
+[1029/1047  0s] C_WebGL_asmjs artifacts/libil2cpptiny/tiny3d-asmjs-tiny3d/e3hf/Initialize.o
+[1030/1047  0s] C_WebGL_asmjs artifacts/libil2cpptiny/tiny3d-asmjs-tiny3d/v2jj/WindowsHelpers.o
+[1031/1047  0s] C_WebGL_asmjs artifacts/libil2cpptiny/tiny3d-asmjs-tiny3d/e3hf/BrokeredFileSystem.o
+[1032/1047  1s] C_WebGL_asmjs artifacts/libil2cpptiny/tiny3d-asmjs-tiny3d/v2jj/MemoryMappedFile.o
+[1033/1047  1s] C_WebGL_asmjs artifacts/libil2cpptiny/tiny3d-asmjs-tiny3d/v2jj/SynchronizationContext.o
+[1034/1047  1s] C_WebGL_asmjs artifacts/libil2cpptiny/tiny3d-asmjs-tiny3d/v2jj/MutexImpl.o
+[1035/1047  1s] C_WebGL_asmjs artifacts/libil2cpptiny/tiny3d-asmjs-tiny3d/v2jj/File.o
+[1036/1047  1s] C_WebGL_asmjs artifacts/libil2cpptiny/tiny3d-asmjs-tiny3d/v2jj/Process.o
+[1037/1047  1s] C_WebGL_asmjs artifacts/libil2cpptiny/tiny3d-asmjs-tiny3d/v2jj/Locale.o
+[1038/1047  0s] Lib_WebGL_asmjs artifacts/libil2cpptiny/tiny3d-asmjs-tiny3d/libil2cpptiny.bc
+shared:WARNING: Assuming object file output in the absence of `-c`, based on output filename. Please add with `-c` or `-r` to avoid this warning
+[1039/1047  0s] Lib_WebGL_asmjs artifacts/lib_unity_platforms_runloop/tiny3d-asmjs-tiny3d/lib_unity_platforms_runloop.bc
+shared:WARNING: Assuming object file output in the absence of `-c`, based on output filename. Please add with `-c` or `-r` to avoid this warning
+[1040/1047  0s] Lib_WebGL_asmjs artifacts/lib_unity_tiny_web/tiny3d-asmjs-tiny3d/lib_unity_tiny_web.bc
+shared:WARNING: Assuming object file output in the absence of `-c`, based on output filename. Please add with `-c` or `-r` to avoid this warning
+[1041/1047  0s] Lib_WebGL_asmjs artifacts/lib_unity_tiny_input_web/tiny3d-asmjs-tiny3d/lib_unity_tiny_input_web.bc
+shared:WARNING: Assuming object file output in the absence of `-c`, based on output filename. Please add with `-c` or `-r` to avoid this warning
+[BUSY       6s] Link_WebGL_asmjs artifacts/Tiny3D/tiny3d-asmjs-tiny3d/Tiny3D.html (+mem,js)
+[BUSY      16s] Link_WebGL_asmjs artifacts/Tiny3D/tiny3d-asmjs-tiny3d/Tiny3D.html (+mem,js)
+[BUSY      26s] Link_WebGL_asmjs artifacts/Tiny3D/tiny3d-asmjs-tiny3d/Tiny3D.html (+mem,js)
+[1042/1047 28s] Link_WebGL_asmjs artifacts/Tiny3D/tiny3d-asmjs-tiny3d/Tiny3D.html (+mem,js)
+[1043/1047  0s] CopyTool ../../Builds/tiny3d-asmjs-tiny3d/Tiny3D.mem
+[1044/1047  0s] CopyTool ../../Builds/tiny3d-asmjs-tiny3d/Tiny3D.js
+[1045/1047  0s] CopyTool ../../Builds/tiny3d-asmjs-tiny3d/Tiny3D.html
+*** Bee build success (30.47 seconds), 30 items updated
